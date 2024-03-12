@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Nike Men's Running Shoes",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a05914e2-035a-4f9d-9317-c2ba9fd032e7/calzado-de-running-en-carretera-pegasus-40-zD8H1c.png",
+    "price": 99.99,
+    "description": "Get ready for your next run with these comfortable and stylish Nike running shoes. Designed for maximum performance and durability."
+  },
+  {
+    "name": "Adidas Women's Yoga Pants",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b399dd0a34db4070b00bae6901038cb6_9366/adidas_Yoga_Studio_7-8_Leggings_Grey_HK6614_21_model.jpg",
+    "price": 49.99,
+    "description": "Enhance your yoga practice with these Adidas yoga pants. Made from breathable and stretchable fabric for ultimate comfort during your workouts."
+  },
+  {
+    "name": "Under Armour Men's Compression Shirt",
+    "image": "https://m.media-amazon.com/images/I/51U5C5qX6PL._AC_UY1000_.jpg",
+    "price": 29.99,
+    "description": "Train harder and longer with this Under Armour compression shirt. It provides a snug fit to support your muscles and improve blood circulation."
+  },
+  {
+    "name": "Reebok Women's CrossFit Gloves",
+    "image": "https://i.ebayimg.com/thumbs/images/g/Y2MAAOSwYtVbeBdx/s-l640.jpg",
+    "price": 19.99,
+    "description": "Protect your hands during intense CrossFit workouts with these Reebok gloves. They offer excellent grip and palm protection for lifting and gripping."
+  },
+  {
+    "name": "Puma Men's Soccer Cleats",
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/107165/03/sv01/fnd/PNA/fmt/png/FUTURE-ULTIMATE-FG/AG-Men's-Soccer-Cleats",
+    "price": 79.99,
+    "description": "Dominate the field with these high-performance Puma soccer cleats. Designed for speed, agility, and precision ball control on any surface."
+  },
+  {
+    "name": "Nike Women's Tennis Skirt",
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/abe543ac-e970-4e11-8bde-a5d96ebdb478/nikecourt-dri-fit-slam-womens-tennis-skirt-Ng2cBh.png",
+    "price": 39.99,
+    "description": "Stay stylish and comfortable on the tennis court with this Nike tennis skirt. It features moisture-wicking fabric and built-in shorts for added support."
+  },
+  {
+    "name": "Adidas Men's Basketball Shorts",
+    "image": "https://slimages.macysassets.com/is/image/MCY/products/2/optimized/8558462_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1",
+    "price": 34.99,
+    "description": "Elevate your game in these Adidas basketball shorts. Made from lightweight and breathable fabric for unrestricted movement on the court."
+  },
+  {
+    "name": "Under Armour Women's Sports Bra",
+    "image": "https://underarmour.scene7.com/is/image/Underarmour/V5-1357719-001_FC_Main?rp=standard-0pad|pdpMainDesktop&scl=1&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=F0F0F0&wid=566&hei=708&size=566,708",
+    "price": 24.99,
+    "description": "Stay supported and comfortable during your workouts with this Under Armour sports bra. It offers a secure fit and moisture-wicking properties."
+  }
+]
