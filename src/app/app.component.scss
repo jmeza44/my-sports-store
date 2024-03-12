@@ -1,0 +1,49 @@
+.sport-articles-title {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.sport-articles-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.sport-article-card {
+  width: 300px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.sport-article-image {
+  width: 100%;
+  height: auto;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.sport-article-details {
+  padding: 15px;
+}
+
+.sport-article-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.sport-article-description {
+  margin-bottom: 10px;
+}
+
+.sport-article-price {
+  font-weight: bold;
+}

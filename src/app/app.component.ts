@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { SportArticlesService } from './services/sport-articles.service';
+import { SportArticle } from './models/sport-article.model';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,19 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'my-sports-store';
+  title = 'sports-store';
+  sportArticles: SportArticle[] = [];
+
+  constructor(private sportArticlesService: SportArticlesService) {}
+
+  ngOnInit(): void {
+    this.getSportArticles();
+  }
+
+  getSportArticles(): void {
+    this.sportArticlesService.getSportArticles()
+      .subscribe(data => {
+        this.sportArticles = data;
+      });
+  }
 }
