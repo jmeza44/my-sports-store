@@ -1,19 +1,19 @@
 [
   {
     "name": "Nike Men's Running Shoes",
-    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a05914e2-035a-4f9d-9317-c2ba9fd032e7/calzado-de-running-en-carretera-pegasus-40-zD8H1c.png",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8d5e4759-0cfb-4841-80a1-022a67e6b06b/calzado-de-carrera-en-carretera-streakfly-8rTxtR.png",
     "price": 99.99,
     "description": "Get ready for your next run with these comfortable and stylish Nike running shoes. Designed for maximum performance and durability."
   },
   {
     "name": "Adidas Women's Yoga Pants",
     "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b399dd0a34db4070b00bae6901038cb6_9366/adidas_Yoga_Studio_7-8_Leggings_Grey_HK6614_21_model.jpg",
-    "price": 49.99,
+    "price": 30.99,
     "description": "Enhance your yoga practice with these Adidas yoga pants. Made from breathable and stretchable fabric for ultimate comfort during your workouts."
   },
   {
     "name": "Under Armour Men's Compression Shirt",
-    "image": "https://m.media-amazon.com/images/I/51U5C5qX6PL._AC_UY1000_.jpg",
+    "image": "https://underarmour.scene7.com/is/image/Underarmour/V5-1366072-100_FC?rp=standard-0pad%7CpdpMainDesktop&scl=1&fmt=jpg&qlt=85&resMode=sharp2&cache=on%2Con&bgc=F0F0F0&wid=566&hei=708&size=566%2C708",
     "price": 29.99,
     "description": "Train harder and longer with this Under Armour compression shirt. It provides a snug fit to support your muscles and improve blood circulation."
   },
@@ -32,7 +32,7 @@
   {
     "name": "Nike Women's Tennis Skirt",
     "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/abe543ac-e970-4e11-8bde-a5d96ebdb478/nikecourt-dri-fit-slam-womens-tennis-skirt-Ng2cBh.png",
-    "price": 39.99,
+    "price": 34.99,
     "description": "Stay stylish and comfortable on the tennis court with this Nike tennis skirt. It features moisture-wicking fabric and built-in shorts for added support."
   },
   {
